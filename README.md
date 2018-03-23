@@ -1,0 +1,2 @@
+# Model-of-IoV
+An internet of vehicles model implemented in java that can be run in IntelliJ to produce several results regarding the model. This model is used to study packet delivery ratio, packet delay, and virtual machine migration under different scenarios. It models a rectangular block of size 15x5 km whose perimeter can be cosidered as roads on which vehicles move. These vehicles communicate with each other and RSUs(road side units) to form an internet of vehicles.
